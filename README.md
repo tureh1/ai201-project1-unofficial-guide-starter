@@ -9,10 +9,7 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+My domain is unofficial student knowledge about Iowa State University dining and campus food. This knowledge is valuable because official ISU Dining pages explain menus, meal plans, hours, and dining programs, but they do not fully show what students actually think is worth eating, which places are convenient between classes, what students complain about, or how students choose between meal plans. Student opinions are scattered across Reddit threads and informal reviews, so a RAG system can make this information easier to search and summarize.
 
 ---
 

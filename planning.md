@@ -115,15 +115,9 @@ For a production system, I would compare embedding models based on accuracy, lat
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
-     flowchart LR
-    A[Raw .txt documents in docs/] --> B[Document ingestion and cleaning with Python]
-    B --> C[Paragraph-based chunking: 700 characters, 100 overlap]
-    C --> D[Embeddings with all-MiniLM-L6-v2]
-    D --> E[ChromaDB vector store]
-    F[User question] --> G[Semantic retrieval: top-k = 5]
-    E --> G
-    G --> H[Groq Llama 3.3 grounded generation]
-    H --> I[Answer with source filenames]
+    ![Architecture diagram](images/architecture_flowchart_process_diagram.png)
+
+This diagram shows the five-stage RAG pipeline for The Unofficial Guide: document ingestion, chunking, embedding with `all-MiniLM-L6-v2`, storage in ChromaDB, semantic retrieval, and grounded generation with Groq Llama 3.3.
 
      
 

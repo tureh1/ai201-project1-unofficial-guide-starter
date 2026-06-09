@@ -1,0 +1,16 @@
+Title: Iowa State University Dining Overview
+Source Type: Official ISU Dining page
+Source URL: https://www.dining.iastate.edu/
+Date Collected: June 9, 2026
+
+Content:
+ISU Dining is the official dining service for Iowa State University. The dining website presents campus dining as a system with many different options, including dining centers, cafes, markets, convenience stores, and snack options. The site is meant to help students find places to eat, review menus, check hours, understand meal plans, and access nutrition information.
+
+The official dining page emphasizes that students can find food throughout the day, from breakfast to late-night snacks. It also points students toward online menus and nutritional information, which can help students compare meals before deciding where to eat. This makes the official dining site useful for factual questions about what ISU Dining offers, but it does not fully explain which places students personally prefer.
+
+Suggested content to collect:
+
+General description of ISU Dining.
+Mention that ISU Dining has multiple campus dining options.
+Mention links or sections for Hours & Menus, Meal Plans & Rates, Nutrition, Employment, and other dining resources.
+Mention any overview text about breakfast, late-night snacks, menus, nutrition, or dining convenience.

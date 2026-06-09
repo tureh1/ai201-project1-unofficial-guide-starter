@@ -4,13 +4,10 @@ Source URL: https://www.dining.iastate.edu/
 Date Collected: June 9, 2026
 
 Content:
-ISU Dining is the official dining service for Iowa State University. The dining website presents campus dining as a system with many different options, including dining centers, cafes, markets, convenience stores, and snack options. The site is meant to help students find places to eat, review menus, check hours, understand meal plans, and access nutrition information.
+ISU Dining is the official dining service for Iowa State University. The official dining website describes campus dining as having many options throughout the day, from breakfast to late-night snacks. It also says online menus help students access detailed nutritional information before choosing where to eat.
 
-The official dining page emphasizes that students can find food throughout the day, from breakfast to late-night snacks. It also points students toward online menus and nutritional information, which can help students compare meals before deciding where to eat. This makes the official dining site useful for factual questions about what ISU Dining offers, but it does not fully explain which places students personally prefer.
+ISU Dining includes dining centers, cafes, markets, convenience-style food locations, and retail dining options. Official ISU Dining location results include dining centers such as Friley Windows, Richardson Court Marketplace, and Union Drive Marketplace. The official location listings also include cafes such as Bookends Cafe, Business Cafe, Charging Station, Courtyard Cafe, Design Cafe, and Gentle Doctor Cafe.
 
-Suggested content to collect:
+The official dining website is most useful for factual information, such as dining locations, hours, menus, meal plans, Dining Dollars, nutrition information, and mobile ordering. It is less useful for student opinions about which food tastes best, which places feel overpriced, which dining halls are most reliable, or which places students actually recommend.
 
-General description of ISU Dining.
-Mention that ISU Dining has multiple campus dining options.
-Mention links or sections for Hours & Menus, Meal Plans & Rates, Nutrition, Employment, and other dining resources.
-Mention any overview text about breakfast, late-night snacks, menus, nutrition, or dining convenience.
+This source can answer broad official questions such as what ISU Dining offers, where students can check official menus, and what types of campus dining locations exist. For questions about student preferences, unofficial Reddit sources are more useful.

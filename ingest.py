@@ -31,15 +31,27 @@ def load_documents(docs_dir=DOCS_DIR):
 
 def remove_header(text):
     """
-    Remove document header lines from the chunk text.
+    Keep the title, but remove source type, source URL, and date.
 
-    The source filename is already stored in metadata, so we do not need
-    Title, Source Type, Source URL, or Date Collected inside the chunk text.
+    Keeping the title helps retrieval because titles contain useful keywords,
+    such as "Best food on campus" or "Meal Plans."
     """
-    if "Content:" in text:
-        return text.split("Content:", 1)[1]
+    title = ""
 
-    return text
+    for line in text.splitlines():
+        if line.startswith("Title:"):
+            title = line.replace("Title:", "").strip()
+            break
+
+    if "Content:" in text:
+        content = text.split("Content:", 1)[1].strip()
+    else:
+        content = text.strip()
+
+    if title:
+        return f"Document topic: {title}\n\n{content}"
+
+    return content
 
 
 def remove_helper_sections(text):

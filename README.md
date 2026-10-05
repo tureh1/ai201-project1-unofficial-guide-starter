@@ -1,5 +1,13 @@
 # The Unofficial Guide — Project 1
 
+## ▶️ [Watch the Project Demo](https://drive.google.com/file/d/14rQvqNSzRMSwVOQLBN58_bOrkxyvqUTw/view?usp=sharing)
+
+> **See the project in action:** Explore my Iowa State dining and campus food assistant in this video walkthrough.
+>
+> **[▶ Watch the demo on Google Drive](https://drive.google.com/file/d/14rQvqNSzRMSwVOQLBN58_bOrkxyvqUTw/view?usp=sharing)**
+
+---
+
 > **How to use this template:**
 > Complete each section *after* you've built and tested the corresponding part of your system.
 > Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
